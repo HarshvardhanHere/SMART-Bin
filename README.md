@@ -1,8 +1,5 @@
-# SMART-Bin
 # SMART Bin for High-Density Residential Areas
-
-> A self-maintaining, affordable waste-to-biogas recycling system aimed at improving waste management in urban clusters.
-
+> Intelligent standalone residential compost gas generator that effectively manages household waste and produces biogas. Its novelty lies in the fully automatic, no-touch, no-spillage garbage collection system, integrated with IoT features for real-time monitoring and alerts. This system also reuses wastewater for biogas generation, creating an autonomous and eco-friendly solution for urban waste management.
 ## 🚀 Overview
 
 India generates over 960 million tons of solid waste annually. This project addresses waste segregation, automation, and biogas production using a smart IoT-enabled system suitable for dense residential areas.
